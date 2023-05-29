@@ -1,0 +1,10 @@
+git init
+
+git clone https://github.com/xiaotao-star/git_import_instruction.git
+cd git_import_instruction
+git remote add origin https://github.com/xiaotao-star/git_import_instruction.git
+
+git add .
+git commit -m "first commit"
+
+git push origin 
